@@ -1,4 +1,4 @@
-# <Unique-Password-Generator>
+# Unique-Password-Generator
 This application can generate unique password that is more secured. It uses length, lower and uppercase, and option for special characters. 
 
 # User Story
@@ -34,4 +34,8 @@ JavaScript was challenging among HTML and CSS, from this project I learned about
 
 # <Mock-Up>
 ![alt text](/Let's-Generate-Unique-Password.png)
+
+Click on this link for demo: 
+https://rdsherpa.github.io/GENERATE-UNIQUE-PASSWORD/
+
 
